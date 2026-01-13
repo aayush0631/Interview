@@ -10,4 +10,4 @@ false
 The time complexity of this code is O(n^2) because of the nested loops used to compare each character of the two strings. 
 
 ## Space Complexity
-The space complexity is O(n) due to the additional array used to store a copy of one of the strings. */
+The space complexity is O(n) due to the additional array used to store a copy of one of the strings.
